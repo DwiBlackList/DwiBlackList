@@ -1,98 +1,92 @@
-### Hi there, I'm DwiBlackList <!-- aka [codeSTACKr][website] --> 👋 
+<h2 align="center">Hi 👋! My name is Ichsanul Dwi Prayitno</h2>
+<h6 align="left">Just a random guy who can become a Web Developer and a little knowledge of android and game developer</h6>
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+###
 
-## I'm a Student!!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DwiBlackList&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DwiBlackList&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DwiBlackList&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+###
 
-### Connect with me:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+</div>
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+###
 
-<br />
+<br clear="both">
 
-### Languages and Tools:
+###
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="right" height="150" src="https://i.imgur.com/w4WKK86.gif" />
 
-<br />
-<br />
-<!-- 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+###
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DwiBlackList&show_icons=true&hide_border=true" />
+<div align="left">
+  <a href="https://wa.me/6281391936149" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:dwiblacklist@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/lchsanul/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://linktr.ee/dwiblacklist" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://www.facebook.com/dwiBLACKLIST" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://discordapp.com/users/527835426057224202" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@artofwar4561" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ichsanul-dwi-prayitno/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <!-- <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a> -->
+</div>
 
-</details> -->
+###
 
-[website]: https://codeSTACKr.com
-[discord]: https://discord.com/users/%F0%9D%95%AE%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8E%F0%9D%96%98%F0%9D%95%B0%F0%9D%96%99%F0%9D%96%97%F0%9D%96%86%F0%9D%96%9C%F0%9D%96%86%F0%9D%95%AF%F0%9D%96%8E%F0%9D%95%BD%F0%9D%96%86%F0%9D%96%8E%F0%9D%96%9F%F0%9D%96%8A%F0%9D%96%91#2360
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/DwiIchsanul
-[youtube]: https://www.youtube.com/channel/UCHwZTSw-slH5OyiuH0VIU3w/
-[instagram]: https://www.instagram.com/lchsanul/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/DwiBlackList/DwiBlackList/output/snake.svg" alt="Snake animation" />
 
+###
 
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DwiBlackList&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
-
-<!-- # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center">Hi, I Am Marcellinus 👨‍💻 -->
-
-<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
-
-<!-- ## 📖 About me -->
-<!-- 
-* 💻 I'm learn full stack web developer
-* 🎓 I'm a College Student
-* 🏍️ I'm a Motorcycle enthusiastic
-
-## 📫 Get in touch
-- Facebook - [Marcellinus](https://web.facebook.com/IgnacyMischa123/)
-- Instagram - [Marcellinus](https://www.instagram.com/itsmarsel_)
-
- or give some ♥ on [mail](mail to:itsmarsel@gmail.com) . -->
-<details>
-  <summary>Some other achievements about me</summary>
-  <br>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiBlackList&hide_langs_below=1&theme=radical&line_height=27&layout=compact" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DwiBlackList&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_height=21" alt="DwiBlackList Github Stats" />
-<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=DwiBlackList&column=7&theme=dracula" alt="DwiBlackList Github Trophy" />
-</p> -->
-
-</details>
-  
-<hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p  align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DwiBlackList" alt="visitor badge"/>       
-</p>
-
-</p>
+###
